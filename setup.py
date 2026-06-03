@@ -14,7 +14,7 @@ setup(
     description="Python client library for Toss Investment API",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/toss-invest-python",
+    url="https://github.com/jy2694/PyTossInvest",
     license="MIT",
     classifiers=[
         "Development Status :: 3 - Alpha",

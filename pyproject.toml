@@ -43,9 +43,9 @@ dev = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/toss-invest-python"
-"Bug Reports" = "https://github.com/yourusername/toss-invest-python/issues"
-"Source Code" = "https://github.com/yourusername/toss-invest-python"
+"Homepage" = "https://github.com/jy2694/PyTossInvest"
+"Bug Reports" = "https://github.com/jy2694/PyTossInvest/issues"
+"Source Code" = "https://github.com/jy2694/PyTossInvest"
 
 [tool.setuptools]
 packages = ["py_toss_invest", "py_toss_invest.types", "py_toss_invest.api"]
