@@ -2,7 +2,7 @@
 
 from typing import List, Optional
 
-from pytossinvest.types import (
+from py_toss_invest.types import (
     BuyingPowerResponse,
     Commission,
     Order,

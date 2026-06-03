@@ -3,8 +3,8 @@
 import pytest
 from unittest.mock import patch
 
-from pytossinvest import TossInvestClient
-from pytossinvest.types import Account
+from py_toss_invest import TossInvestClient
+from py_toss_invest.types import Account
 
 
 class TestAccountAPI:

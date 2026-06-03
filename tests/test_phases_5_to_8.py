@@ -3,7 +3,7 @@
 import pytest
 from unittest.mock import patch
 
-from pytossinvest import (
+from py_toss_invest import (
     TossInvestClient,
     BuyingPowerResponse,
     CommissionsResponse,

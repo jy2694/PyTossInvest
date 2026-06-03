@@ -2,7 +2,7 @@
 
 from typing import Optional
 
-from pytossinvest.types import HoldingsOverview
+from py_toss_invest.types import HoldingsOverview
 
 
 class AssetMixin:

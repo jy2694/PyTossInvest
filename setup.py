@@ -1,9 +1,9 @@
-"""Setup script for toss-invest package."""
+"""Setup script for py-toss-invest package."""
 
 from setuptools import setup, find_packages
 
 setup(
-    name="pytossinvest",
+    name="py-toss-invest",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[

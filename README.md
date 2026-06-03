@@ -1,4 +1,4 @@
-# PyTossInvest
+# py-toss-invest
 
 토스증권 Open API 비공식 Python 클라이언트 라이브러리입니다.
 
@@ -8,13 +8,13 @@
 ## 설치
 
 ```bash
-pip install pytossinvest
+pip install py-toss-invest
 ```
 
 ## 빠른 시작
 
 ```python
-from pytossinvest import TossInvestClient
+from py_toss_invest import TossInvestClient
 
 client = TossInvestClient(
     client_id="your_client_id",
@@ -267,7 +267,7 @@ for c in commissions:
 ## 에러 처리
 
 ```python
-from pytossinvest import (
+from py_toss_invest import (
     TossInvestClient,
     APIError,
     AuthenticationError,

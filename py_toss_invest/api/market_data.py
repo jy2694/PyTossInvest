@@ -4,7 +4,7 @@ Market Data API methods for TossInvestClient.
 
 from typing import List, Optional
 
-from pytossinvest.types import (
+from py_toss_invest.types import (
     CandlePageResponse,
     OrderbookResponse,
     PriceLimitResponse,

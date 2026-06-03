@@ -7,7 +7,7 @@ Methods can be added to TossInvestClient through inheritance or composition.
 
 from typing import List
 
-from pytossinvest.types import Account
+from py_toss_invest.types import Account
 
 
 class AccountMixin:

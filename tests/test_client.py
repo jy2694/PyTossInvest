@@ -3,8 +3,8 @@
 import pytest
 from unittest.mock import patch, MagicMock
 
-from pytossinvest import TossInvestClient
-from pytossinvest.errors import (
+from py_toss_invest import TossInvestClient
+from py_toss_invest.errors import (
     InvalidCredentialsError,
     AuthenticationError,
     NetworkError,

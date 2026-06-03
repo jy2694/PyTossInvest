@@ -4,7 +4,7 @@ Market Info API methods for TossInvestClient.
 
 from typing import Optional
 
-from pytossinvest.types.market_info import (
+from py_toss_invest.types.market_info import (
     ExchangeRateResponse,
     KrMarketCalendarResponse,
     UsMarketCalendarResponse,

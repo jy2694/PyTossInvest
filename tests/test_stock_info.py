@@ -3,8 +3,8 @@
 import pytest
 from unittest.mock import patch
 
-from pytossinvest import TossInvestClient
-from pytossinvest.types import StockInfo, StockWarning, KrMarketDetail
+from py_toss_invest import TossInvestClient
+from py_toss_invest.types import StockInfo, StockWarning, KrMarketDetail
 
 
 class TestStockInfoAPI:

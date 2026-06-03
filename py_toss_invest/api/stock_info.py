@@ -7,7 +7,7 @@ Methods can be added to TossInvestClient through inheritance or composition.
 
 from typing import List
 
-from pytossinvest.types import StockInfo, StockWarning
+from py_toss_invest.types import StockInfo, StockWarning
 
 
 class StockInfoMixin:
