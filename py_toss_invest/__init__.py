@@ -49,7 +49,7 @@ from .types import (
     PriceLimitResponse,
     PriceResponse,
     ProfitLoss,
-    RegularMarketSession,
+    RegularMarketSession,ㄹ
     SellableQuantityResponse,
     StockInfo,
     StockWarning,
@@ -59,7 +59,7 @@ from .types import (
     UsMarketSession,
 )
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "Toss Invest API Client Contributors"
 
 __all__ = [
